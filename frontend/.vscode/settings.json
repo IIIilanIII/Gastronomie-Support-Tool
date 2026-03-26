@@ -1,0 +1,14 @@
+{
+    "testing.coverageBarThresholds": {
+        "red": 0,
+        //Vorgabe 85 Coverage
+        "yellow": 85,
+        "green": 90
+    },
+    //Coverage ohne Intergrationtests
+    "dart.flutterTestAdditionalArgs": [
+        "test"
+    ],
+    "editor.formatOnSave": true,
+    "cmake.ignoreCMakeListsMissing": true
+}

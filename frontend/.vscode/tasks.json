@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Flutter: Integration Tests",
+      "type": "shell",
+      "command": "flutter",
+      "args": [
+        "test",
+        "integration_test"
+      ],
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}
