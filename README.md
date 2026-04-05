@@ -1,4 +1,4 @@
-# Gastro-App Support-Tool 🍽️
+# Gastro-App Support-Tool
 **Fullstack-Universitätsprojekt – Hochschule München**
 (Kevin Wohlfahrt, Tilman Patzak, Simon Englhauser, Ilan Wiesner)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📝 Kurzbeschreibung
+## Kurzbeschreibung
 Dieses Support-Tool optimiert Gastronomie-Abläufe als eine digitale Schnittstelle zwischen Service und Küche. 
 
 **Kernfunktionalität:**
@@ -15,7 +15,7 @@ sowie Kundenbestellungen für Bedienungen im Gastronomiebereich.
 
 ---
 
-## 🚀 Setup & Start
+## Setup & Start
 
 ### 1. Backend (Spring Boot)
 Voraussetzungen: Java version 17+ installiert haben
@@ -30,11 +30,7 @@ Voraussetzungen: Java version 17+ installiert haben
 
 ---
 
-## 📚 Dokumentation & Technische Specs
-# Projekt Team
-
-
-# Dokumentationen 
+## Dokumentation
 
 ## Domänen-/Datenmodell
 <img width="581" height="1123" alt="Domänen-_Datenmodell" src="https://github.com/user-attachments/assets/890eda31-47ac-435f-b823-ec90d8cb48b7" />
