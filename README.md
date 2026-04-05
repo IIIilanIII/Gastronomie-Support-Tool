@@ -18,10 +18,13 @@ sowie Kundenbestellungen für Bedienungen im Gastronomiebereich.
 ## Setup & Start
 
 ### 1. Backend (Spring Boot)
-Voraussetzungen: Java version 17+ installiert haben
+Voraussetzungen: 
+Java version 21+ installiert haben
 1. `cd backend`
 2. `./gradlew bootRun` (Nutzt die konfigurierte Java-Toolchain)
 ### 2. Frontend
+Voraussetzungen:
+neueste Flutter version installiert haben und zugehöriges Dart
 1. `cd frontend`
 2. `flutter pub get`
 3. `flutter run build_runner build --delete-conflicting-outputs` 
