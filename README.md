@@ -28,16 +28,17 @@ sowie Kundenbestellungen für Bedienungen im Gastronomiebereich.
 # Dokumentationen 
 
 ## Domänen-/Datenmodell
-![Domänen-_Datenmodell](uploads/698695e9a2ac3df3d03715012197aba8/Domänen-_Datenmodell.png)
+![](<img width="581" height="1123" alt="Domänen-_Datenmodell" src="https://github.com/user-attachments/assets/de28dd20-d655-4353-988b-1b24ecf4b85b" />)
+
 
 ## Use-Case-Diagramm
-![image](uploads/27efc3d82fa28da5ea371fe2183a3f99/image.png)
+![](<img width="968" height="821" alt="image" src="https://github.com/user-attachments/assets/ff16a84c-4434-4594-a46b-13f18e959644" />)
 
 ## Aktivitäts-Diagramm
-![AKTIVITÄTSDIAGRAMM_SE.drawio](uploads/59cea7be1c909d481b9e032ee24613d7/AKTIVITÄTSDIAGRAMM_SE.drawio.png)
+![](<img width="372" height="1201" alt="AKTIVITÄTSDIAGRAMM_SE drawio" src="https://github.com/user-attachments/assets/6a0baadc-1a3b-4903-aedf-23fcee91e079" />)
 
 ## Zustands-Diagramm
-![ZUSTANDSDIAGRAMM_SE.drawio](uploads/46f7ced0498338ded6ad6b12ef9d9ab4/ZUSTANDSDIAGRAMM_SE.drawio.png)
+![](<img width="365" height="616" alt="ZUSTANDSDIAGRAMM_SE drawio" src="https://github.com/user-attachments/assets/ae39095f-3424-4b70-8607-5f7eb15c0a0a" />)
 
 ## Definitions
 
