@@ -4,7 +4,7 @@
 
 ![Demo](https://github.com/user-attachments/assets/7c655981-5f8a-4384-8e96-89dd2cb921bd)
 
-<a href="=https://github.com/IIIilanIII/Gastronomie-Support-Tool/wiki/Wiki"_blank">WIKI</a>
+<a href="https://github.com/IIIilanIII/Gastronomie-Support-Tool/wiki/Wiki" target = "blank">WIKI</a>
 
 
 ---
