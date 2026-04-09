@@ -4,6 +4,9 @@
 
 ![Demo](https://github.com/user-attachments/assets/7c655981-5f8a-4384-8e96-89dd2cb921bd)
 
+<a href="=https://github.com/IIIilanIII/Gastronomie-Support-Tool/wiki/Wiki"_blank">WIKI</a>
+
+
 ---
 
 ## Kurzbeschreibung
@@ -27,11 +30,9 @@ Voraussetzungen:
 neueste Flutter version installiert haben und zugehöriges Dart
 1. `cd frontend`
 2. `flutter pub get`
-3. `flutter run build_runner build --delete-conflicting-outputs` 
+3. `flutter run build_runner build --delete-conflicting-outputs` \\
    *(Hinweis: Erforderlich für die Generierung von Mocks und Serialisierung)*
-4. `flutter run`
-
-Für Dokumentation bitte ins Wiki schauen :-) ![](https://github.com/IIIilanIII/Gastronomie-Support-Tool/wiki/Wiki)
+4. `flutter run` 
 
 ---
 
