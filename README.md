@@ -31,6 +31,8 @@ neueste Flutter version installiert haben und zugehöriges Dart
    *(Hinweis: Erforderlich für die Generierung von Mocks und Serialisierung)*
 4. `flutter run`
 
+Für Dokumentation bitte ins Wiki schauen :-) ![](https://github.com/IIIilanIII/Gastronomie-Support-Tool/wiki/Wiki)
+
 ---
 
 *Entwickelt im Rahmen des Moduls Software Engineering I an der HM.*
